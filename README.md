@@ -6,11 +6,9 @@
 
 ###
 
-<p align="left">📜 I’m focused on my college project.<br>🌱 Currently studying PHP.</p>
+<p align="left">👋 Hi there! I’m [Your Name], a passionate developer currently focused on my college project. I love exploring new technologies and continuously improving my skills.<br><br>🔭 At the moment, I’m diving deep into PHP and Laravel, and I'm excited to create robust applications. If you have insights or resources, I’d love to connect!<br><br>🤝 I’m always open to collaboration and learning from others. Feel free to reach out!<br><br>🌱 Let’s build something great together!</p>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">💻 Technology and Tool:</h2>
 
