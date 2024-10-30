@@ -1,12 +1,8 @@
-<br clear="both">
-
 <h1 align="left">Welcome to my profile! 😇</h1>
 
 ###
 
-<br clear="both">
-
-<h3 align="left">🐺 About me:</h3>
+<h2 align="left">🐺 About me:</h2>
 
 ###
 
@@ -16,11 +12,9 @@
 
 <br clear="both">
 
-<h3 align="left">💻 Technology and Tool:</h3>
+<h2 align="left">💻 Technology and Tool:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,13 +32,9 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">😈 Socials:</h3>
+<h2 align="left">😈 Socials:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
