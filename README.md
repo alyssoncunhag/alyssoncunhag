@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I’m Alysson, a passionate developer currently immersed in my college project. I love exploring new technologies and enhancing my skills, especially in creating visually appealing and user-friendly applications.<br><br>🔭 Right now, I’m diving deep into PHP and Laravel, focusing on crafting robust applications with a strong emphasis on design and user experience. If you have any insights or resources to share, I’d love to connect!<br><br>🎨 I’m excited about collaborating with others who appreciate the blend of functionality and aesthetics in development. Feel free to reach out if you’d like to brainstorm or share ideas!<br><br>🌱 Let’s create something amazing together!</p>
+<p align="left">👋 Hello, world! I’m Alysson, a passionate developer currently immersed in my college project. I love exploring new technologies and enhancing my skills, especially in creating visually appealing and user-friendly applications.<br><br>🔭 Right now, I’m diving deep into PHP and Laravel, focusing on crafting robust applications with a strong emphasis on design and user experience. If you have any insights or resources to share, I’d love to connect!<br><br>🎨 I’m excited about collaborating with others who appreciate the blend of functionality and aesthetics in development. Feel free to reach out if you’d like to brainstorm or share ideas!<br><br>🌱 Let’s create something amazing together!</p>
 
 ###
 
