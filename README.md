@@ -28,8 +28,6 @@
 
 ###
 
-###
-
 <h2 align="left">😈 Socials:</h2>
 
 ###
