@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🐺 About me:</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">💻 Technologys and Tools:</h2>
+<h2 align="left">Technologys and Tools:</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">😈 Socials:</h2>
+<h2 align="left">Socials:</h2>
 
 ###
 
